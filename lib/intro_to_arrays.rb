@@ -6,6 +6,10 @@ def instantiate_new_array()
   return []
 end
 
+def array_with_two_elements()
+  return my_two_array = ['hello','ciao']
+end
+
 def first_element(array)
   return array.first
 end
